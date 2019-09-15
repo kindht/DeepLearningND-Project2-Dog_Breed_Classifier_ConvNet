@@ -1,4 +1,5 @@
-# 小狗品种分类(卷积神经网络） - Dog Breed Classifier - Pytorch
+# 小狗品种分类(卷积神经网络） - Dog Breed Classifier
+# Pytorch
 
 This is the 2nd project in the course of Deep Learning at Udacity
 
