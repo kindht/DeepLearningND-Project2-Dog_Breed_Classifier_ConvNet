@@ -1,4 +1,4 @@
-# 实战项目： 小狗品种分类器 - Dog breed Project
+# 小狗品种分类器 - Dog breed Project
 
 This is the 2nd project in the course of Deep Learning at Udacity
 
