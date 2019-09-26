@@ -8,7 +8,7 @@
 
 This is the 2nd project for the **Deep Learning** Nanodegree program at [Udacity](https://cn.udacity.com/course/deep-learning-nanodegree--nd101-cn-advanced)
 
-The project built a CNN model from scratch to implement typical **AlexNet** architecture (including 5 Convolutional Layers and 3 fully connnected Layers, as well as some Maxpooling Layers and Dropout layers)
+The project built a **CNN model** from scratch to implement typical **AlexNet** architecture (including 5 Convolutional Layers and 3 fully connnected Layers, as well as some Maxpooling Layers and Dropout layers)
 
 The project also implemented **Transfer learning** using **Pytorch** to take advantage of pre-trained **VGG16** model to identify dog breeds. 
 
