@@ -12,7 +12,7 @@ The project built a CNN model from scratch to implement typical **AlexNet** arch
 
 The project also implemented **Transfer learning** using **Pytorch** to take advantage of pre-trained **VGG16** model to identify dog breeds. 
 
-In the project, dataset was preprocessed using torchvision.transforms for **data augamentation**.
+In the project, dataset was preprocessed using torchvision.transforms for **data augamentation**.  OpenCV is used for human faces detection. 
 
 The algorithms implemented in this project can be used for mobile apps or web apps.
 
