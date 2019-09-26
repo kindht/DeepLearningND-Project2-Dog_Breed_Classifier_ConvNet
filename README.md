@@ -1,4 +1,4 @@
-# 深度学习 (纳米学位）- 项目2 - 小狗品种分类 (Pytorch/ 卷积神经网络) 
+# 深度学习 (纳米学位）- 项目2 - 小狗品种分类 
 # DeepLearning ND - Project2 - Dog Breed Classifier (Pytorch/Convolutional Neural Network)
 
 [//]: # (Image References)
